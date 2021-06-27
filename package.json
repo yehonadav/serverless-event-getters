@@ -1,6 +1,6 @@
 {
   "name": "@yehonadav/serverless-event-getters",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "serverless event getter functions",
   "author": "yehonadav",
   "license": "Apache-2.0",
